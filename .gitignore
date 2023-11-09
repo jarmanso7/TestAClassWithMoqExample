@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MockingExample
+/MockingExample.ConsoleApp/bin/Debug/net7.0
+/MockingExample.ConsoleApp/obj
+/MockingExample.Library/bin/Debug/net7.0
+/MockingExample.Library/obj
+/MockingExample.Tests/bin/Debug/net7.0
+/MockingExample.Tests/obj
